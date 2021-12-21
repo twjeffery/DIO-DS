@@ -13,7 +13,7 @@ variations:
   styleModifier: c-btn
   includeClassification: molecules
   includeCategory: 02-blocks
-  includeName: cards
+  includeName: card
 
 usage:
 - title: When to use
